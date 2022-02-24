@@ -4,6 +4,11 @@ Aqui eu insiro todas as informações que eu estou aprendendo com o uso contínu
 
 Abaixo, você pode conferir uma imagem ilustrativa sobre como ele funciona e seu pontencial.
 
+Para testar o funcionamento dele, eu uso os dados do projeto California Housing.
+Você pode os encontrar aqui: https://www.kaggle.com/camnugent/california-housing-prices
+
+
+
 <p align="center">
 <a target="_blank" href="https://vimeo.com/589879082"><img src="https://user-images.githubusercontent.com/1309307/111806797-a2c10300-88d2-11eb-9f21-bf1544f95b34.gif" width="868px" alt="orchest-0.3.0-demo" /></a/></p>
 <p align="center">
