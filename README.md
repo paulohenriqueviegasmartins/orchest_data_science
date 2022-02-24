@@ -13,6 +13,7 @@ Here, you can find more information abour this software: https://www.orchest.io/
 <p align="center">
 Reference: https://www.orchest.io/
 
+More information about this case I'm using, can be accessed here.
 
 If you have any doubts, can send me a message.
 
